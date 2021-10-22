@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Notcoder
+- 👋 Hi, I’m Notcoder
 
 <!---
 Notcoder0/Notcoder0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
